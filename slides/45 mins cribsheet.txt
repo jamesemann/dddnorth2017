@@ -1,0 +1,11 @@
+Demo 1 - Your first bot
+
+Demo 2 - Banking bot using dialogs
+
+Demo 3 - Form Flow bot
+
+Demo 4 - QnAMaker.ai
+
+Demo 5 - QnAMaker Bot
+
+Demo 6 - Home automation bot
